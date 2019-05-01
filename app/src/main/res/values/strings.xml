@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="title_activity_password_manager">Impasse Screenlock</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="sharedPrefName">mypref</string>
+    <string name="activated">activated</string>
+    <string name="firstRun">firstrun</string>
+    <string name="locked">locked</string>
+    <string name="databasePopulated">populated</string>
+    <string name="numberOfCharacters">numberOfCharacters</string>
+
+    <string name="hint_hint">Hint...</string>
+    <string name="hint_password">Password...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Password not saved because one or more fields were empty or the password was too short.</string>
+
+    <string name="screenlock_start_extra">screenlockextra</string>
+    <string name="screenlock_running">running</string>
+</resources>
